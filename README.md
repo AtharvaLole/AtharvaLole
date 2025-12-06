@@ -27,6 +27,10 @@
   <img align="center" src="https://cdn.simpleicons.org/codechef/white" alt="atharva_lole22" height="30" width="40" />
 </a>
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhrMHo0dWV1dHBxbjlybDFsOHplNmExMzN5MGhtc2VrZXp2OWYyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" 
+     alt="coding gif" align="right" width="200"/>
+
+
 <a href="https://codeforces.com/profile/darkdawg69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="darkdawg69" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atharva_lole2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva_lole2207" height="30" width="40" /></a>
 </p>
