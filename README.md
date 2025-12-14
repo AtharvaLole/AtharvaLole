@@ -51,7 +51,7 @@ I'm a passionate **Full Stack Developer** from India with a keen interest in bui
 
 ---
 
-## 💻 Animated Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -74,7 +74,7 @@ I'm a passionate **Full Stack Developer** from India with a keen interest in bui
 
 ---
 
-## 📊 GitHub Stats & Trophies
+## 📊 Git Stats
 
 <div align="center">
 
