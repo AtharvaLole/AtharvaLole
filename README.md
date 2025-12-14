@@ -96,7 +96,7 @@ I'm a passionate **Full Stack Developer** from India with a keen interest in bui
 
 | Platform | Handle | Highest Rating |
 |--------|--------|----------------|
-| **CodeChef** | [atharva_lole22](https://www.codechef.com/users/atharva_lole22) | 1423 (3★) |
+| **CodeChef** | [atharva_lole22](https://www.codechef.com/users/atharva_lole22) | 1423 |
 | **Codeforces** | [darkdawg69](https://codeforces.com/profile/darkdawg69) | 1032 |
 | **LeetCode** | [atharva_lole2207](https://leetcode.com/atharva_lole2207/) | 1414 |
 
