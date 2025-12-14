@@ -1,50 +1,127 @@
-<h1 align="center">Hi 👋, I'm Atharva Lole</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there! 👋 I'm Atharva Lole
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=athu2207&label=Profile%20views&color=0e75b6&style=flat" alt="athu2207" /> </p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" />
+  
+  <h2>🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h2>
+  
+  <img src="https://komarev.com/ghpvc/?username=AtharvaLole&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-India-blue" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-green" alt="Open to Collaboration" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athu2207" alt="athu2207" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Healthcare projects**
+## 🎯 About Me
 
-- 🌱 I’m currently learning **Data visualisation tools**
+I'm a passionate **Full Stack Developer** from India with a keen interest in building innovative solutions that bridge technology and real-world problems. Currently diving deep into **Data Visualization** and **Machine Learning** while working on impactful healthcare projects.
 
-- 👯 I’m looking to collaborate on **Full stack projects**
+**⚡ Quick Facts:**
+- 🔭 **Currently Working On:** Healthcare & AI Projects  
+- 🌱 **Currently Learning:** Data Visualization & TensorFlow  
+- 👯 **Looking to Collaborate:** Full Stack & AI Projects  
+- 🤝 **Need Help With:** TensorFlow implementations  
+- 💬 **Ask me about:** React, Python, JavaScript  
+- ⚡ **Fun Fact:** Cricket enthusiast who codes between overs!  
 
-- 🤝 I’m looking for help with **TensorFlow**
+---
 
-- 💬 Ask me about **react, python, javascript**
+## 🔗 Connect With Me
 
-- 📫 How to reach me **atharvalole12@gmail.com**
+<div align="center">
+  <a href="https://linkedin.com/in/atharva-lole-136089282">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/ath_2207_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/atharva_lole22">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/darkdawg69">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/atharva_lole2207/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:atharvalole12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-- ⚡ Fun fact **I love cricket!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/atharva-lole-136089282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-lole-136089282" height="30" width="40" /></a>
-<a href="https://instagram.com/ath_2207_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ath_2207_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/atharva_lole22" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/codechef/white" alt="atharva_lole22" height="30" width="40" />
-</a>
+## 💻 Animated Tech Stack
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhrMHo0dWV1dHBxbjlybDFsOHplNmExMzN5MGhtc2VrZXp2OWYyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" 
-     alt="coding gif" align="right" width="200"/>
+<div align="center">
 
+### Frontend & Frameworks
+<img src="https://skillicons.dev/icons?i=react,nextjs,js&theme=dark" />
 
-<a href="https://codeforces.com/profile/darkdawg69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="darkdawg69" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atharva_lole2207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva_lole2207" height="30" width="40" /></a>
-</p>
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=python,cpp,firebase&theme=dark" />
 
-<p>
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=athu2207&show_icons=true&locale=en&layout=compact" />
-</p>
+### Data Science & AI
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pandas&theme=dark" />
 
-<p>
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=athu2207&show_icons=true&locale=en" />
-</p>
+### Design & Tools
+<img src="https://skillicons.dev/icons?i=figma,illustrator,git&theme=dark" />
 
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athu2207&" alt="athu2207" /></p>
+---
+
+## 📊 GitHub Stats & Trophies
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AtharvaLole&show_icons=true&theme=radical&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=AtharvaLole&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaLole&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=AtharvaLole&theme=radical&no-frame=true&row=2&column=4" />
+
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+| Platform | Handle | Highest Rating |
+|--------|--------|----------------|
+| **CodeChef** | [atharva_lole22](https://www.codechef.com/users/atharva_lole22) | 1423 (3★) |
+| **Codeforces** | [darkdawg69](https://codeforces.com/profile/darkdawg69) | 1032 |
+| **LeetCode** | [atharva_lole2207](https://leetcode.com/atharva_lole2207/) | 1414 |
+
+</div>
+
+---
+
+## 🚀 Projects & Contributions
+
+I'm always working on exciting projects! Currently focusing on:
+- **Healthcare Tech Solutions** – Improving patient workflows & automation  
+- **AI/ML Implementations** – Practical TensorFlow & ML pipelines  
+- **Full Stack Applications** – Scalable, user-friendly systems  
+
+---
+
+<div align="center">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhrMHo0dWV1dHBxbjlybDFsOHplNmExMzN5MGhtc2VrZXp2OWYyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200"/>
+
+<h3>Let's Build Something Amazing Together! 🌟</h3>
+
+<p>Feel free to reach out for collaboration, questions, or just to say hi!</p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+<em><b>I love connecting with people</b> — say hi anytime!</em>
+
+</div>
