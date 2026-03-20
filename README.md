@@ -16,14 +16,6 @@
 
 I'm a passionate **Full Stack Developer** from India with a keen interest in building innovative solutions that bridge technology and real-world problems. Currently diving deep into **Data Visualization** and **Machine Learning** while working on impactful healthcare projects.
 
-**⚡ Quick Facts:**
-- 🔭 **Currently Working On:** Healthcare & AI Projects  
-- 🌱 **Currently Learning:** Data Visualization & TensorFlow  
-- 👯 **Looking to Collaborate:** Full Stack & AI Projects  
-- 🤝 **Need Help With:** TensorFlow implementations  
-- 💬 **Ask me about:** React, Python, JavaScript  
-- ⚡ **Fun Fact:** Cricket enthusiast who codes between overs!  
-
 ---
 
 ## 🔗 Connect With Me
