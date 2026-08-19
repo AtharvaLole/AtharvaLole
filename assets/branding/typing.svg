@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" role="img" aria-labelledby="title">
+  <title id="title">Animated builder statements</title>
+  <defs>
+    <style>
+      .fallback { display: none; }
+      @media (prefers-reduced-motion: reduce) { .animated-lines { display: none; } .fallback { display: inline; } animate { display: none; } }
+    </style>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#00E5FF"/><stop offset=".5" stop-color="#9B6DFF"/><stop offset="1" stop-color="#FF4FA3"/></linearGradient>
+    <clipPath id="c1"><rect x="74" y="0" width="0" height="76"><animate attributeName="width" values="0;720;720;0;0" keyTimes="0;.035;.17;.195;1" dur="25s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="74" y="0" width="0" height="76"><animate attributeName="width" values="0;0;900;900;0;0" keyTimes="0;.2;.235;.37;.395;1" dur="25s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c3"><rect x="74" y="0" width="0" height="76"><animate attributeName="width" values="0;0;650;650;0;0" keyTimes="0;.4;.435;.57;.595;1" dur="25s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c4"><rect x="74" y="0" width="0" height="76"><animate attributeName="width" values="0;0;930;930;0;0" keyTimes="0;.6;.635;.77;.795;1" dur="25s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c5"><rect x="74" y="0" width="0" height="76"><animate attributeName="width" values="0;0;650;650;0" keyTimes="0;.8;.835;.97;1" dur="25s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect width="1200" height="76" rx="18" fill="#080C1B" stroke="#232B47"/>
+  <text x="30" y="49" fill="#39FF88" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="28">›</text>
+  <g class="animated-lines" fill="url(#line)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="24" font-weight="600">
+    <text x="74" y="49" clip-path="url(#c1)">I build products, not just projects.</text>
+    <text x="74" y="49" clip-path="url(#c2)">From product idea → architecture → shipped software.</text>
+    <text x="74" y="49" clip-path="url(#c3)">Full Stack × Product × AI.</text>
+    <text x="74" y="49" clip-path="url(#c4)">Currently exploring Machine Learning &amp; Data Visualization.</text>
+    <text x="74" y="49" clip-path="url(#c5)">Build. Measure. Learn. Ship.</text>
+  </g>
+  <text class="fallback" x="74" y="49" fill="#68F3FF" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="24" font-weight="600">I build products, not just projects.</text>
+  <rect x="1110" y="24" width="3" height="30" rx="1.5" fill="#00E5FF"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+</svg>

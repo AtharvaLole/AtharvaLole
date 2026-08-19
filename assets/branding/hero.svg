@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Atharva Lole</title>
+  <desc id="desc">Product Developer and Manager, Full Stack Engineer, and AI/ML Explorer</desc>
+  <defs>
+    <style>@media (prefers-reduced-motion: reduce) { animate, animateTransform { display: none; } }</style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset=".48" stop-color="#0B1028"/><stop offset="1" stop-color="#13051F"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"><animate attributeName="stop-color" values="#00E5FF;#7C3AED;#00E5FF" dur="7s" repeatCount="indefinite"/></stop>
+      <stop offset=".52" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#EC4899;#7C3AED" dur="7s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#EC4899"><animate attributeName="stop-color" values="#EC4899;#39FF88;#EC4899" dur="7s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <radialGradient id="orbA"><stop offset="0" stop-color="#00E5FF" stop-opacity=".42"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbB"><stop offset="0" stop-color="#EC4899" stop-opacity=".38"/><stop offset="1" stop-color="#EC4899" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="9" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#82A0FF" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="430" rx="28" fill="url(#grid)"/>
+  <circle cx="1060" cy="40" r="290" fill="url(#orbA)"><animate attributeName="cx" values="1040;980;1040" dur="10s" repeatCount="indefinite"/></circle>
+  <circle cx="110" cy="410" r="290" fill="url(#orbB)"><animate attributeName="cy" values="420;350;420" dur="12s" repeatCount="indefinite"/></circle>
+  <rect x="1" y="1" width="1198" height="428" rx="27" fill="none" stroke="url(#accent)" stroke-opacity=".58"/>
+  <g transform="translate(76 70)"><circle cx="7" cy="7" r="7" fill="#39FF88" filter="url(#glow)"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></circle><text x="27" y="13" fill="#B8C3E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="3">PRODUCT ENGINEER · INDIA</text></g>
+  <text x="72" y="214" fill="#F8FAFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="92" font-weight="800" letter-spacing="-4">ATHARVA LOLE</text>
+  <rect x="74" y="242" width="850" height="7" rx="4" fill="url(#accent)" filter="url(#glow)"><animate attributeName="width" values="260;850;620;850" dur="7s" repeatCount="indefinite"/></rect>
+  <text x="76" y="298" fill="#C4CCE3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500">Product Developer &amp; Manager  •  Full Stack Engineer  •  AI / ML Explorer</text>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15" font-weight="600">
+    <rect x="76" y="340" width="180" height="42" rx="21" fill="#00E5FF" fill-opacity=".1" stroke="#00E5FF" stroke-opacity=".55"/><text x="105" y="366" fill="#68F3FF">BUILD SYSTEMS</text>
+    <rect x="272" y="340" width="172" height="42" rx="21" fill="#7C3AED" fill-opacity=".13" stroke="#9B6DFF" stroke-opacity=".55"/><text x="301" y="366" fill="#B99AFF">SHIP PRODUCTS</text>
+    <rect x="460" y="340" width="190" height="42" rx="21" fill="#EC4899" fill-opacity=".11" stroke="#EC4899" stroke-opacity=".55"/><text x="488" y="366" fill="#FF83BD">LEARN IN PUBLIC</text>
+  </g>
+  <g transform="translate(1000 270)" fill="none" stroke-linecap="round"><circle r="73" stroke="#00E5FF" stroke-opacity=".25"/><circle r="49" stroke="#EC4899" stroke-opacity=".35" stroke-dasharray="10 10"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/></circle><path d="M-23 5 0-18 23 5M-23 5v24M23 5v24M-23 29h46" stroke="url(#accent)" stroke-width="6" filter="url(#glow)"/></g>
+</svg>

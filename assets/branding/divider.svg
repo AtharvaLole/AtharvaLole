@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="68" viewBox="0 0 1200 68" aria-hidden="true">
+  <defs><style>@media (prefers-reduced-motion: reduce) { animate { display: none; } }</style><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00E5FF"/><stop offset=".33" stop-color="#2563EB"/><stop offset=".66" stop-color="#A855F7"/><stop offset="1" stop-color="#EC4899"/></linearGradient></defs>
+  <path d="M0 34H410l18-15 30 30 30-30 30 30 18-15h764" fill="none" stroke="#1E2945" stroke-width="2"/>
+  <path d="M0 34H410l18-15 30 30 30-30 30 30 18-15h764" fill="none" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-dasharray="150 1050"><animate attributeName="stroke-dashoffset" from="1200" to="0" dur="5s" repeatCount="indefinite"/></path>
+  <circle cx="488" cy="34" r="4" fill="#39FF88"><animate attributeName="r" values="3;7;3" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
