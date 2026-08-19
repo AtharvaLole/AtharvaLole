@@ -175,9 +175,9 @@ I care about the full loop: finding the right problem, reducing uncertainty, bui
 # GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtharvaLole/AtharvaLole/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtharvaLole/AtharvaLole/output/github-snake.svg" />
-  <img alt="Atharva Lole contribution snake" src="https://raw.githubusercontent.com/AtharvaLole/AtharvaLole/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtharvaLole/AtharvaLole/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtharvaLole/AtharvaLole/output/github-snake.svg?v=2" />
+  <img alt="Atharva Lole contribution snake" src="https://raw.githubusercontent.com/AtharvaLole/AtharvaLole/output/github-snake.svg?v=2" width="100%" />
 </picture>
 
 <sub>The snake is generated inside this repository—no intermittently failing public stats cards.</sub>
