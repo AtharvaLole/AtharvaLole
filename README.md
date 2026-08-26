@@ -8,10 +8,10 @@
 
 <br />
 
-<a href="https://roommet.com"><img alt="RoomMet" src="https://img.shields.io/badge/ROOMMET-FF2D74?style=for-the-badge&logo=homeassistant&logoColor=white" /></a>
-<a href="https://pragmati-x.vercel.app/"><img alt="PragmatiX" src="https://img.shields.io/badge/PRAGMATIX-0A2420?style=for-the-badge&logo=probot&logoColor=B8F34A" /></a>
-<a href="https://linkedin.com/in/atharva-lole-136089282"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:atharvalole12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/atharva-lole-136089282" title="LinkedIn"><img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ath_2207_/" title="Instagram"><img alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" width="34" height="34" /></a>&nbsp;&nbsp;
+<a href="https://github.com/AtharvaLole" title="GitHub"><img alt="GitHub" src="https://cdn.simpleicons.org/github/8B949E" width="34" height="34" /></a>&nbsp;&nbsp;
+<a href="mailto:atharvalole12@gmail.com" title="Email"><img alt="Email" src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" /></a>
 
 <br />
 
@@ -200,10 +200,11 @@ I care about the full loop: finding the right problem, reducing uncertainty, bui
 
 Product idea, ambitious prototype, or a system that needs clearer thinking—I’m open to a good conversation.
 
-<a href="https://roommet.com"><img alt="RoomMet" src="https://img.shields.io/badge/ROOMMET-FF2D74?style=for-the-badge&logo=homeassistant&logoColor=white" /></a>
-<a href="https://linkedin.com/in/atharva-lole-136089282"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/ath_2207_/"><img alt="Instagram" src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:atharvalole12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://roommet.com" title="RoomMet"><img alt="RoomMet" src="./assets/roommet/logo.jpeg" width="34" height="34" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/atharva-lole-136089282" title="LinkedIn"><img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ath_2207_/" title="Instagram"><img alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" width="34" height="34" /></a>&nbsp;&nbsp;
+<a href="https://github.com/AtharvaLole" title="GitHub"><img alt="GitHub" src="https://cdn.simpleicons.org/github/8B949E" width="34" height="34" /></a>&nbsp;&nbsp;
+<a href="mailto:atharvalole12@gmail.com" title="Email"><img alt="Email" src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" /></a>
 
 <br />
 
