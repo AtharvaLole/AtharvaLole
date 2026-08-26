@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="https://linkedin.com/in/atharva-lole-136089282" title="LinkedIn"><img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/atharva-lole-136089282" title="LinkedIn"><img alt="LinkedIn" src="./assets/branding/linkedin.svg" width="34" height="34" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/ath_2207_/" title="Instagram"><img alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" width="34" height="34" /></a>&nbsp;&nbsp;
 <a href="https://github.com/AtharvaLole" title="GitHub"><img alt="GitHub" src="https://cdn.simpleicons.org/github/8B949E" width="34" height="34" /></a>&nbsp;&nbsp;
 <a href="mailto:atharvalole12@gmail.com" title="Email"><img alt="Email" src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" /></a>
@@ -200,8 +200,7 @@ I care about the full loop: finding the right problem, reducing uncertainty, bui
 
 Product idea, ambitious prototype, or a system that needs clearer thinking—I’m open to a good conversation.
 
-<a href="https://roommet.com" title="RoomMet"><img alt="RoomMet" src="./assets/roommet/logo.jpeg" width="34" height="34" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/atharva-lole-136089282" title="LinkedIn"><img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/atharva-lole-136089282" title="LinkedIn"><img alt="LinkedIn" src="./assets/branding/linkedin.svg" width="34" height="34" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/ath_2207_/" title="Instagram"><img alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" width="34" height="34" /></a>&nbsp;&nbsp;
 <a href="https://github.com/AtharvaLole" title="GitHub"><img alt="GitHub" src="https://cdn.simpleicons.org/github/8B949E" width="34" height="34" /></a>&nbsp;&nbsp;
 <a href="mailto:atharvalole12@gmail.com" title="Email"><img alt="Email" src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" /></a>
